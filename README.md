@@ -6,7 +6,7 @@ The following files can be found here:
  My python coding is done in a way, that you just need to keep your dataset in csv format along with the (.py)python file and run it with your IDLE.
  Automatically your dataset will enter into Decision Tree Classifier Algorithm and ask for your input.
  Enter the Sepal,Petal lengths and widths. Viola! Your prediction is shown.
- **Requirements:**
+***Requirements:**
   You need to have installed, pandas,numpy,sklearn packages before hand in your python for successful running of the code.
  
  You can view the dataset Analysis (EDA) and other checks done on the dataset in the(.ipynb) jupyter nb file.
